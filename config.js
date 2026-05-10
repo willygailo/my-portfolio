@@ -3,7 +3,7 @@
 // In the deployed version of the original portfolio, these are automatically injected.
 const CONFIG = {
     FACEBOOK_URL: "YOUR_FACEBOOK_LINK_HERE",
-    GITHUB_URL: "YOUR_GITHUB_LINK_HERE",
-    GITHUB_USERNAME: "YOUR_GITHUB_USERNAME_HERE",
+    GITHUB_URL: "https://github.com/willygailo",
+    GITHUB_USERNAME: "willygailo",
     EMAIL: "your.email@example.com"
 };
